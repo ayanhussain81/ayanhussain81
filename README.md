@@ -9,7 +9,7 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <p align="left"> <a href="https://twitter.com/ayanhussain912" target="blank"><img src="https://img.shields.io/twitter/follow/ayanhussain912?logo=twitter&style=for-the-badge" alt="ayanhussain912" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science, Cloud Computing**
+- 🌱 I’m currently learning **Data Science & Cloud Computing**
 
 - 💬 Ask me about **Data Science, ML & Cloud**
 
