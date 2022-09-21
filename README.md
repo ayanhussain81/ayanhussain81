@@ -11,7 +11,7 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 - 🌱 I’m currently learning **Data Science & Cloud Computing**
 
-- 💬 Ask me about **Data Science, ML &  Cloud**
+- 💬 Ask me about **Data Science, ML ,  Cloud**
 
 - 📫 How to reach me **ayanhussain746@gmail.com**
 
