@@ -1,35 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ayan Hussain                      </h1>
-<h3 align="center">A Junior Data Analyst</h3>
-<img align="right" alt="Coding" width="150" height = "150"
-src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" </img>
+# 👋 Hi, I'm Ayan Hussain!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanhussain81&label=Profile%20views&color=0e75b6&style=flat" alt="ayanhussain81" /> </p>
+## About Me
+I'm a passionate **Data Engineer** with a proven record of building robust, scalable, and real-time data pipelines and analytics platforms. With experience across multiple domains like **financial data**, **medical data**, and **AI integration**, I thrive in data-intensive environments and love turning raw data into actionable insights.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanhussain81" alt="ayanhussain81" /></a> </p>
+- 📊 3+ years of experience in **data engineering**, working with high-volume datasets and real-time data systems.
+- ☁️ Skilled in **AWS, Snowflake, Kafka, Airflow, Glue**, and other cloud-native tools.
+- 🧠 I enjoy learning and working in **AI, machine learning**, and cloud-based data infrastructure.
 
-<p align="left"> <a href="https://twitter.com/ayanhussain912" target="blank"><img src="https://img.shields.io/twitter/follow/ayanhussain912?logo=twitter&style=for-the-badge" alt="ayanhussain912" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Data Science & Cloud Computing**
+## 💼 My Experience
 
-- 💬 Ask me about **Data Science, ML & Cloud**
+**🔹 Cloud Data Engineer @ Norstella**  
+Working on designing and deploying cloud-native data solutions using AWS services and modern data architecture principles.
 
-- 📫 How to reach me **ayanhussain746@gmail.com**
+**🔹 Data Engineer @ OfficeField**  
+Real-time stock & crypto data pipeline development using Kafka & Airflow. Solved scalability issues and enhanced ETL performance.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayanhussain912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayanhussain912" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayan-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayan-hussain" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ayan-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayan-hussain" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayanhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayanhussain" height="30" width="40" /></a>
-<a href="https://instagram.com/ayanhossain._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayanhossain._" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayanhussain746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayanhussain746" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanhussain81&show_icons=true&locale=en&layout=compact" alt="ayanhussain81" /></p>
+## 🛠️ Technical Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanhussain81&show_icons=true&locale=en" alt="ayanhussain81" /></p>
+**Languages**: Python, SQL, NoSQL, Shell Scripting  
+**Frameworks/Platforms**: Apache Airflow, Kafka, AWS Glue, Lambda, S3, Redshift, DynamoDB, Snowflake  
+**Tools & Libraries**: Pandas, PySpark, Selenium, Git, Power BI, Tableau, MongoDB, AWS SageMaker  
+**Cloud Platforms**: Amazon Web Services (AWS)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanhussain81&" alt="ayanhussain81" /></p>
+---
+
+## 📈 Projects
+
+**🔹 Tradeverse**  
+Real-time stock & crypto analysis platform — built end-to-end ETL & streaming pipelines; collaborated with AI teams for seamless data flow and backend integrations.
+
+**🔹 RealT**  
+Implemented a Snowflake-based data warehouse from raw customer data using AWS Glue, Lambda, and Snowpipe for real-time analytics.
+
+**🔹 Olympics Data Analysis**  
+Orchestrated ETL workflows using AWS Glue & Snowflake for advanced analytics; improved BI team decision-making by 40%.
+
+**🔹 AIverse**  
+Launched a marketplace for AI models using SageMaker, Lambda, and ECR. Enabled API-based model deployment and seamless user experience.
+
+---
+
+## 📚 Certifications
+
+- **AWS Data Engineering Master Class** – Udemy
+- **Google Data Analytics Professional Certificate** – Coursera
+- **Certified Power BI & Tableau Data Analyst** – DataCamp  
+- **Published Research**: [XGBoost & Random Forest Analysis – PJOSR](https://doi.org/10.57041/pjosr.v3i1.946)
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **Runner-Up**, Envision'22 Data Science Competition (NEDUET)
+- 🥇 **Winner**, National Idea Bank (Provincial Round, 2200+ applicants)
+- 🎤 **Best Presenter**, APICEE’23 — Presented to 10+ industry experts
+
+---
+
+## 🌐 Let's Connect
+
+- 📫 Email: [ayanhussain746@gmail.com](mailto:ayanhussain746@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/ayan-hussain](https://www.linkedin.com/in/ayan-hussain/)  
+- 💻 GitHub: [github.com/ayanhussain81](https://github.com/ayanhussain81)
+- 🐦 Twitter (X): x.com/ayanhussain912
+
+---
+
+> "Turning raw data into powerful decisions — one pipeline at a time."  
