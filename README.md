@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate **Data Engineer** with a proven record of building robust, scalable, and real-time data pipelines and analytics platforms. With experience across multiple domains like **financial data**, **medical data**, and **AI integration**, I thrive in data-intensive environments and love turning raw data into actionable insights.
 
-- 📊 3+ years of experience in **data engineering**, working with high-volume datasets and real-time data systems.
+- 📊 4+ years of experience in **data engineering**, working with high-volume datasets and real-time data systems.
 - ☁️ Skilled in **AWS, Snowflake, Kafka, Airflow, Glue**, and other cloud-native tools.
 - 🧠 I enjoy learning and working in **AI, machine learning**, and cloud-based data infrastructure.
 
