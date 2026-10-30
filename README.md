@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-Data Engineer with **5 years of experience** building high-scale, production-grade data solutions across **pharma**, **healthcare**, and **finance**. I specialize in designing ETL/ELT pipelines that process **1.5B+ files**, architecting streaming systems, and enabling enterprise-grade analytics platforms.
+Data Engineer with **4+ years of experience** building high-scale, production-grade data solutions across **pharma**, **healthcare**, and **finance**. I specialize in designing ETL/ELT pipelines that process **1.5B+ files**, architecting streaming systems, and enabling enterprise-grade analytics platforms.
 
 Beyond engineering, I actively give back to the community — recognized as an **AWS Community Builder**, having **mentored 500+ data engineering students**, and serving as Technical Head of the AI Club at NEDUET. I'm also a **published researcher** in machine learning.
 
